@@ -6,4 +6,4 @@ num2 = parseFloat(num2);
 
 const resultado = num1 + num2;
 
-alert('O resultado da operação foi ' + resultado);
+alert(`O resultado da operação foi ${resultado}`);
